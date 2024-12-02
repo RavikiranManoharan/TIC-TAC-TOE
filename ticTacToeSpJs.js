@@ -397,191 +397,9 @@ function check1()
 		var e = document.getElementById("pg2").style.display="block";
 		
 	}
-	else if(plar2.includes(1)==true && plar2.includes(2)==true && plar2.includes(3)==true)
-	{
-		console.log("ck2")
-		
-		var a = document.getElementById("rlt").textContent="COMPUTER"+" "+"WON";
-		
-		var b = document.getElementById("1").style.color="grey";
-		var c = document.getElementById("2").style.color="grey";
-		var d = document.getElementById("3").style.color="grey";
-		
-		var e = document.getElementById("pg2").style.display="block";
-		
-			var k = document.getElementsByClassName("btns")
-		k[0].style.display="none";
-		k[1].style.display="none";
-		k[2].style.display="none";
-		k[3].style.display="none";
-		k[4].style.display="none";
-		k[5].style.display="none";
-		k[6].style.display="none";
-		k[7].style.display="none";
-		k[8].style.display="none";
-		
-	}
-	else if(plar2.includes(1)==true && plar2.includes(5)==true && plar2.includes(9)==true)
-	{
-		console.log("ck2")
-		
-		var a = document.getElementById("rlt").textContent="COMPUTER"+" "+"WON";
-		
-		var b = document.getElementById("1").style.color="grey";
-		var c = document.getElementById("5").style.color="grey";
-		var d = document.getElementById("9").style.color="grey";
-		
-		var e = document.getElementById("pg2").style.display="block";
-		
-			var k = document.getElementsByClassName("btns")
-		k[0].style.display="none";
-		k[1].style.display="none";
-		k[2].style.display="none";
-		k[3].style.display="none";
-		k[4].style.display="none";
-		k[5].style.display="none";
-		k[6].style.display="none";
-		k[7].style.display="none";
-		k[8].style.display="none";
-	}
-	else if(plar2.includes(1)==true && plar2.includes(4)==true && plar2.includes(7)==true)
-	{
-		console.log("ck2")
-		
-		var a = document.getElementById("rlt").textContent="COMPUTER"+" "+"WON";
-		
-		var b = document.getElementById("1").style.color="grey";
-		var c = document.getElementById("4").style.color="grey";
-		var d = document.getElementById("7").style.color="grey";
-		
-		var e = document.getElementById("pg2").style.display="block";
-		
-			var k = document.getElementsByClassName("btns")
-		k[0].style.display="none";
-		k[1].style.display="none";
-		k[2].style.display="none";
-		k[3].style.display="none";
-		k[4].style.display="none";
-		k[5].style.display="none";
-		k[6].style.display="none";
-		k[7].style.display="none";
-		k[8].style.display="none";
-	}
-	else if(plar2.includes(2)==true && plar2.includes(5)==true && plar2.includes(8)==true)
-	{
-		console.log("ck2")
-		
-		var a = document.getElementById("rlt").textContent="COMPUTER"+" "+"WON";
-		
-		var b = document.getElementById("2").style.color="grey";
-		var c = document.getElementById("5").style.color="grey";
-		var d = document.getElementById("8").style.color="grey";
-		
-		var e = document.getElementById("pg2").style.display="block";
-		
-			var k = document.getElementsByClassName("btns")
-		k[0].style.display="none";
-		k[1].style.display="none";
-		k[2].style.display="none";
-		k[3].style.display="none";
-		k[4].style.display="none";
-		k[5].style.display="none";
-		k[6].style.display="none";
-		k[7].style.display="none";
-		k[8].style.display="none";
-	}
-	else if(plar2.includes(3)==true && plar2.includes(5)==true && plar2.includes(7)==true)
-	{
-		console.log("ck2")
-		
-		var a = document.getElementById("rlt").textContent="COMPUTER"+" "+"WON";
-		
-		var b = document.getElementById("3").style.color="grey";
-		var c = document.getElementById("5").style.color="grey";
-		var d = document.getElementById("7").style.color="grey";
-		
-		var e = document.getElementById("pg2").style.display="block";
-		
-			var k = document.getElementsByClassName("btns")
-		k[0].style.display="none";
-		k[1].style.display="none";
-		k[2].style.display="none";
-		k[3].style.display="none";
-		k[4].style.display="none";
-		k[5].style.display="none";
-		k[6].style.display="none";
-		k[7].style.display="none";
-		k[8].style.display="none";
-	}
-	else if(plar2.includes(3)==true && plar2.includes(6)==true && plar2.includes(9)==true)
-	{
-		console.log("ck2")
-		
-		var a = document.getElementById("rlt").textContent="COMPUTER"+" "+"WON";
-		
-		var b = document.getElementById("3").style.color="grey";
-		var c = document.getElementById("6").style.color="grey";
-		var d = document.getElementById("9").style.color="grey";
-		
-		var e = document.getElementById("pg2").style.display="block";
-		
-			var k = document.getElementsByClassName("btns")
-		k[0].style.display="none";
-		k[1].style.display="none";
-		k[2].style.display="none";
-		k[3].style.display="none";
-		k[4].style.display="none";
-		k[5].style.display="none";
-		k[6].style.display="none";
-		k[7].style.display="none";
-		k[8].style.display="none";
-	}
-	else if(plar2.includes(4)==true && plar2.includes(5)==true && plar2.includes(6)==true)
-	{
-		console.log("ck2")
-		
-		var a = document.getElementById("rlt").textContent="COMPUTER"+" "+"WON";
-		
-		var b = document.getElementById("4").style.color="grey";
-		var c = document.getElementById("5").style.color="grey";
-		var d = document.getElementById("6").style.color="grey";
-		
-		var e = document.getElementById("pg2").style.display="block";
-		
-			var k = document.getElementsByClassName("btns")
-		k[0].style.display="none";
-		k[1].style.display="none";
-		k[2].style.display="none";
-		k[3].style.display="none";
-		k[4].style.display="none";
-		k[5].style.display="none";
-		k[6].style.display="none";
-		k[7].style.display="none";
-		k[8].style.display="none";
-	}
-	else if(plar2.includes(7)==true && plar2.includes(8)==true && plar2.includes(9)==true)
-	{
-		console.log("ck2")
-		
-		var a = document.getElementById("rlt").textContent="COMPUTER"+" "+"WON";
-		
-		var b = document.getElementById("7").style.color="grey";
-		var c = document.getElementById("8").style.color="grey";
-		var d = document.getElementById("9").style.color="grey";
-		
-		var e = document.getElementById("pg2").style.display="block";
-		
-			var k = document.getElementsByClassName("btns")
-		k[0].style.display="none";
-		k[1].style.display="none";
-		k[2].style.display="none";
-		k[3].style.display="none";
-		k[4].style.display="none";
-		k[5].style.display="none";
-		k[6].style.display="none";
-		k[7].style.display="none";
-		k[8].style.display="none";
-	}
+	
+	check2()
+	
 }
 
 function check2()
@@ -594,11 +412,11 @@ function check2()
 	
 	//console.log(plr)
 	
-	if(plar2.includes(1)==true && plar2.includes(2)==true && plar2.includes(3)==true)
+	if(plar2.includes(1) && plar2.includes(2) && plar2.includes(3))
 	{
 		console.log("ck2")
 		
-		var a = document.getElementById("rlt").textContent=plr.toUpperCase()+" "+"WON";
+		var a = document.getElementById("rlt").textContent="COMPUTER WON";
 		
 		var b = document.getElementById("1").style.color="grey";
 		var c = document.getElementById("2").style.color="grey";
@@ -618,11 +436,11 @@ function check2()
 		k[8].style.display="none";
 		
 	}
-	else if(plar2.includes(1)==true && plar2.includes(5)==true && plar2.includes(9)==true)
+	else if(plar2.includes(1) && plar2.includes(5) && plar2.includes(9))
 	{
 		console.log("ck2")
 		
-		var a = document.getElementById("rlt").textContent=plr.toUpperCase()+" "+"WON";
+		var a = document.getElementById("rlt").textContent="COMPUTER WON";
 		
 		var b = document.getElementById("1").style.color="grey";
 		var c = document.getElementById("5").style.color="grey";
@@ -641,11 +459,11 @@ function check2()
 		k[7].style.display="none";
 		k[8].style.display="none";
 	}
-	else if(plar2.includes(1)==true && plar2.includes(4)==true && plar2.includes(7)==true)
+	else if(plar2.includes(1) && plar2.includes(4) && plar2.includes(7))
 	{
 		console.log("ck2")
 		
-		var a = document.getElementById("rlt").textContent=plr.toUpperCase()+" "+"WON";
+		var a = document.getElementById("rlt").textContent="COMPUTER WON";
 		
 		var b = document.getElementById("1").style.color="grey";
 		var c = document.getElementById("4").style.color="grey";
@@ -664,11 +482,11 @@ function check2()
 		k[7].style.display="none";
 		k[8].style.display="none";
 	}
-	else if(plar2.includes(2)==true && plar2.includes(5)==true && plar2.includes(8)==true)
+	else if(plar2.includes(2) && plar2.includes(5) && plar2.includes(8))
 	{
 		console.log("ck2")
 		
-		var a = document.getElementById("rlt").textContent=plr.toUpperCase()+" "+"WON";
+		var a = document.getElementById("rlt").textContent="COMPUTER WON";
 		
 		var b = document.getElementById("2").style.color="grey";
 		var c = document.getElementById("5").style.color="grey";
@@ -687,11 +505,11 @@ function check2()
 		k[7].style.display="none";
 		k[8].style.display="none";
 	}
-	else if(plar2.includes(3)==true && plar2.includes(5)==true && plar2.includes(7)==true)
+	else if(plar2.includes(3) && plar2.includes(5) && plar2.includes(7))
 	{
 		console.log("ck2")
 		
-		var a = document.getElementById("rlt").textContent=plr.toUpperCase()+" "+"WON";
+		var a = document.getElementById("rlt").textContent="COMPUTER WON";
 		
 		var b = document.getElementById("3").style.color="grey";
 		var c = document.getElementById("5").style.color="grey";
@@ -710,11 +528,11 @@ function check2()
 		k[7].style.display="none";
 		k[8].style.display="none";
 	}
-	else if(plar2.includes(3)==true && plar2.includes(6)==true && plar2.includes(9)==true)
+	else if(plar2.includes(3) && plar2.includes(6) && plar2.includes(9))
 	{
 		console.log("ck2")
 		
-		var a = document.getElementById("rlt").textContent=plr.toUpperCase()+" "+"WON";
+		var a = document.getElementById("rlt").textContent="COMPUTER WON";
 		
 		var b = document.getElementById("3").style.color="grey";
 		var c = document.getElementById("6").style.color="grey";
@@ -733,11 +551,11 @@ function check2()
 		k[7].style.display="none";
 		k[8].style.display="none";
 	}
-	else if(plar2.includes(4)==true && plar2.includes(5)==true && plar2.includes(6)==true)
+	else if(plar2.includes(4) && plar2.includes(5) && plar2.includes(6))
 	{
 		console.log("ck2")
 		
-		var a = document.getElementById("rlt").textContent=plr.toUpperCase()+" "+"WON";
+		var a = document.getElementById("rlt").textContent="COMPUTER WON";
 		
 		var b = document.getElementById("4").style.color="grey";
 		var c = document.getElementById("5").style.color="grey";
@@ -756,11 +574,11 @@ function check2()
 		k[7].style.display="none";
 		k[8].style.display="none";
 	}
-	else if(plar2.includes(7)==true && plar2.includes(8)==true && plar2.includes(9)==true)
+	else if(plar2.includes(7) && plar2.includes(8) && plar2.includes(9))
 	{
 		console.log("ck2")
 		
-		var a = document.getElementById("rlt").textContent=plr.toUpperCase()+" "+"WON";
+		var a = document.getElementById("rlt").textContent="COMPUTER WON";
 		
 		var b = document.getElementById("7").style.color="grey";
 		var c = document.getElementById("8").style.color="grey";
@@ -862,9 +680,9 @@ function autoply()
 		
 		if(plar1.includes(num))
 		{
-			check2();
-			
 			autoply();
+			
+			check2();
 		}
 		else
 		{
@@ -874,71 +692,72 @@ function autoply()
 				
 				if(carr.includes(num))
 				{
-					check2();
-					console.log("rc")
+					//console.log("rc")
 					autoply();
+					check2();
 				}
 				else
-				{
-					check2();
-					
+				{	
 					plar2[nu]=num;
 				
 					carr[nu]=num;
 					
+					tie++
+					
 					//console.log(num)
-					console.log(plar2)
+					//console.log(tie)
 					
 					nu++
 				
 					var put = document.getElementById(num).textContent="O";
 				
 					//console.log(num);
-					
-				if(num==1)
-				{ 
-					var a = document.getElementById("btn1").style.display="none";
-				}
-				else if(num==2)
-				{ 
-					var a = document.getElementById("btn2").style.display="none";
-				}
-				else if(num==3)
-				{ 
-					var a = document.getElementById("btn3").style.display="none";
-				}
-				else if(num==4)
-				{ 
-					var a = document.getElementById("btn4").style.display="none";
-				}
-				else if(num==5)
-				{ 
-					var a = document.getElementById("btn5").style.display="none";
-				}
-				else if(num==6)
-				{ 
-					var a = document.getElementById("btn6").style.display="none";
-				}
-				else if(num==7)
-				{ 
-					var a = document.getElementById("btn7").style.display="none";
-				}
-				else if(num==8)
-				{ 
-					var a = document.getElementById("btn8").style.display="none";
-				}
-				else if(num==9)
-				{ 
-					var a = document.getElementById("btn9").style.display="none";
-				}
+						
+					if(num==1)
+					{ 
+						var a = document.getElementById("btn1").style.display="none";
+					}
+					else if(num==2)
+					{ 
+						var a = document.getElementById("btn2").style.display="none";
+					}
+					else if(num==3)
+					{ 
+						var a = document.getElementById("btn3").style.display="none";
+					}
+					else if(num==4)
+					{ 
+						var a = document.getElementById("btn4").style.display="none";
+					}
+					else if(num==5)
+					{ 
+						var a = document.getElementById("btn5").style.display="none";
+					}
+					else if(num==6)
+					{ 
+						var a = document.getElementById("btn6").style.display="none";
+					}
+					else if(num==7)
+					{ 
+						var a = document.getElementById("btn7").style.display="none";
+					}
+					else if(num==8)
+					{ 
+						var a = document.getElementById("btn8").style.display="none";
+					}
+					else if(num==9)
+					{ 
+						var a = document.getElementById("btn9").style.display="none";
+					}
+				check2();
 				}
 			}
 			else
 			{
 				
-				check2();
-				
 				plar2[nu]=num;
+				
+				tie++
 				
 				carr[nu]=num;
 				
@@ -985,11 +804,13 @@ function autoply()
 				{ 
 					var a = document.getElementById("btn9").style.display="none";
 				}
-
+			check2();
 				
 			}
 			//if(num==1)
 		}
+		
+		check2();
 			
 	},1500);
 	
